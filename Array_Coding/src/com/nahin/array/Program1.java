@@ -8,5 +8,6 @@ public class Program1 {
 			sum += arr[i];
 		}
 		System.out.println(sum);
+		//
 	}
 }
